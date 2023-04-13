@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }
 .App{
     /* background-color: red; */
@@ -9,7 +9,7 @@ body{
     padding: 0;
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 20px;
     
     
 }
